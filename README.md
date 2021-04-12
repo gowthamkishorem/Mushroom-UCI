@@ -1,0 +1,3 @@
+# Mushroom-UCI
+Project on Mushroom UCI dataset classification (from INT247 CA LPU)
+Used SVM and Logistic Regression...
